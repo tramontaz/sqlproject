@@ -1,0 +1,1 @@
+SELECT sum(developer_salary) FROM sqltask.developers WHERE developers.developer_specialty = "Java Developer";
